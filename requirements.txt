@@ -17,7 +17,7 @@ docopt==0.6.2
 entrypoints==0.2.3
 future==0.16.0
 gast==0.2.0
-grpcio==1.11.0
+grpcio==1.53.2
 -e git+https://github.com/openai/gym.git@d1146303b070a463e9e81086a0aeff7a2c909311#egg=gym
 idna==3.7
 html5lib==0.999999999
