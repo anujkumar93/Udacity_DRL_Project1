@@ -78,7 +78,7 @@ terminado==0.8.1
 testpath==0.3.1
 torch==0.4.0
 torchsummary==1.4
-tornado==5.1
+tornado==6.3.3
 traitlets==4.3.2
 unityagents==0.4.0
 urllib3==1.26.18
