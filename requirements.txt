@@ -81,7 +81,7 @@ torchsummary==1.4
 tornado==5.1
 traitlets==4.3.2
 unityagents==0.4.0
-urllib3==1.26.18
+urllib3==1.26.19
 wcwidth==0.1.7
 Werkzeug==2.3.8
 whichcraft==0.4.1
